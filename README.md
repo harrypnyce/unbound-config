@@ -1,6 +1,6 @@
 # unbound-config
 Pi-hole w/ Unbound (tiny) recursive DNS server -- replaces FTLDNS.
->> /etc/unbound/unbound.conf.d/pi-hole.conf
+> /etc/unbound/unbound.conf.d/pi-hole.conf
 
 server:
     # If no logfile is specified, syslog is used
